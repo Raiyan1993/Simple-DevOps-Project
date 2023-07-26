@@ -1,4 +1,4 @@
-FROM ubuntu:12.04
+FROM ubuntu:lunar-20230615
 
 MAINTAINER Valaxy Technologies valaxytech@gmail.com
 
