@@ -1,4 +1,4 @@
-FROM ubuntu:lunar-20230615
+FROM ubuntu:mantic-20240530
 
 MAINTAINER Valaxy Technologies valaxytech@gmail.com
 
